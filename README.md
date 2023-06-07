@@ -43,6 +43,7 @@ example:
 > source ./ *.txt
 ```
 
+
 ### Get resource names for exact key (word)
 ```
 get <string key>
