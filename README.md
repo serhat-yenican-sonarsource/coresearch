@@ -12,6 +12,8 @@
  <img src="https://i.imgur.com/w3BSIkm.gif" alt="Trie"/>
 </p>
 
+TestChanges
+
 ## Features
 * Efficient **inverted index** algorithm (mapping from content to resources)
 * Uses **Prefix Tree (Trie)** data structure for quick search and horizontal scaling
